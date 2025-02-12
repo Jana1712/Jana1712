@@ -15,13 +15,11 @@
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Web Development / Python Developer
 - 🤔 I’m looking for Job in Web Development
-- 💬 Ask me about Tech
+- 💬 Ask me about **Python, React js, Javascript... or anything [here](https://github.com)**
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br />[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/<9962404206>)  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/janakiraman-baskardurai-1084582ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](janakiramanbaskardurai@gmail.com)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: "Nothing is impossible. The word itself says 'I'm possible!".
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7rWvkcj)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yAvkcjxW)
 
 
 
