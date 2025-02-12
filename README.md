@@ -8,7 +8,9 @@
 <h3 align="center" ><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"> </h3>
 <br><br>
 
-<h3 align="center">A Passionate Fullstack Python developer from Chennai </h3>
+<h3 align="center">A Passionate Fullstack Python developer <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="55">&nbsp; from Chennai 
+
+ </h3>
 
 
 - 🔭 Here's my [portfolio](https://664865098c65b19e904cda64--cerulean-trifle-897472.netlify.app/)                                                 
