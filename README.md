@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Web Development / Python Developer
 - 🤔 I’m looking for Job in Web Development, Python Developer
+- 👽 Die Hard Fan of OpenSource
 - 💬 Ask me about **Python, React js, Javascript... or anything [here](https://github.com)**
 - 📫 How to reach me :
 <br />[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/<9962404206>)  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/janakiraman-baskardurai-1084582ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](janakiramanbaskardurai@gmail.com)  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
